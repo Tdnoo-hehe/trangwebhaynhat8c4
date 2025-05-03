@@ -1,0 +1,12 @@
+#nut1 {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    cursor: alias;
+    background-color: blue;
+    color: white;
+}
+body {
+    background-color: aquamarine;
+}
